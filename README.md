@@ -1,11 +1,4 @@
-# Bolt-Data-Analysis-in-R
-# Projet Developper :
-  #Mathys 
-  #Geordy 
-  #Wade Mamadou 
-  #Dilane
-
-  
+# Bolt-Data-Analysis-in-R  
 # Introduction :
 The project aims to deliver strategic insights to Bolt , focusing on areas vital for operational
 efficiency and customer satisfaction. Through a comprehensive analysis encompassing data
